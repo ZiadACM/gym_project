@@ -203,5 +203,3 @@ Run all cells in `notebooks/eda_gym_members.ipynb` to clean, analyze, and genera
 ## 📌 Credits & License
 
 * **Dataset**: Provided by [Kaggle](https://www.kaggle.com)
-* **Author**: Your Name / GitHub Handle
-* **License**: MIT (or your preferred license)
